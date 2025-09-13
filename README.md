@@ -1,2 +1,7 @@
-what do you think would be a great project that is not so meta but i could still deploy and also increase my hibernating skill?
-M-PROJECT, M stands for mega. do not missunderstood the word "MEGA" here it's just phrase i do to tell myself it's not a simple calculator..
+**M** stands for **Mega** — but don’t get me wrong, it’s not meant to sound overhyped.  
+It’s just my way of reminding myself that this isn’t “just another simple calculator.”  
+
+This repo is where I try to push myself with projects that are:  
+- not too meta or abstract,  
+- still practical enough to be deployed,  
+- and useful for improving my “hibernating” (problem-solving + coding) skills.  
